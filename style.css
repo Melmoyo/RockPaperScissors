@@ -1,0 +1,45 @@
+
+   html{
+  margin: 0 auto;
+  width:80%;
+  
+}
+.container{
+  width:100%;
+  height:100%;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  gap:10px;
+}
+.item{
+  width:50px;
+  height:50px;
+  border :2px solid black;
+  padding: 20px 20px;
+  font-size:24px;
+  
+  
+}
+
+  .computer{
+    color:blue;
+    }
+.player{color:red}
+  
+  
+  
+    
+#rock{
+  background-color:red;
+    }
+#paper{
+  background-color:yellow;
+  }
+#scissor{
+  background-color:green;
+  }
+.clicked{
+  scale: 1.2;}
+
+  
